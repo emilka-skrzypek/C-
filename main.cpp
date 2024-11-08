@@ -1,4 +1,3 @@
-#include <iostream>
 #include "Sequence.h"
 
 int main() {
@@ -8,3 +7,4 @@ int main() {
 
     return 0;
 }
+

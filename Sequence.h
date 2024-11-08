@@ -14,4 +14,4 @@ public:
     void print() const;
 };
 
-#endif
+#endif // SEQUENCE_H
